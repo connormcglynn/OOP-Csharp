@@ -1,0 +1,6 @@
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/bin/Debug/Bulldozer.exe
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/bin/Debug/Bulldozer.pdb
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/obj/x86/Debug/Bulldozer.csprojResolveAssemblyReference.cache
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/obj/x86/Debug/Bulldozer.csproj.CoreCompileInputs.cache
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/obj/x86/Debug/Bulldozer.exe
+/Users/connormcglynn/Documents/Bootcamps/OOP/Bulldozer/Bulldozer/obj/x86/Debug/Bulldozer.pdb
